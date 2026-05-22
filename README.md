@@ -4,4 +4,4 @@
 A Python web scraping project that collects job listings and saves them into a CSV file.
 
 ## Project URL
-https://realpython.github.io/fake-jobs/
+https://roadmap.sh/projects/job-listings-scraper
